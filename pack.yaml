@@ -1,0 +1,14 @@
+---
+ref: workflows
+name: workflows
+description: workflows integration
+keywords:
+    - workflows
+version: 0.1.0
+python_versions:
+  - "2"
+  - "3"
+author: Globo.com
+email: a-team@corp.globo.com
+contributors:
+  - "Igor Fernandes <igor.frds@gmail.com>"
